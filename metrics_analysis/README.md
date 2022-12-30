@@ -13,5 +13,6 @@
 - когда расходы на привлечение клиента окупаются
 - какие факторы мешают привлечению клиентов
 
+Ссылка на тетрадь с графиками plotly: https://nbviewer.org/github/danietta-k/study_projects/blob/main/metrics_analysis/metrics_analysis.ipynb
 
 
