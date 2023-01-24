@@ -1,7 +1,7 @@
 # study_projects
 
 
-| Название проекта | Сфера         | Навыки        | Задачи        | Описание      |
-| ---------------- | ------------- | ------------- | ------------- | ------------- |
-| Продаже кавртир в Санкт- Петербурге - анализ рынка недвижимости    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell     | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Название проекта | Описание      | Навыки и библиотеки      |
+| ---------------- | ------------- | ------------- |
+| Продаже кавртир в Санкт- Петербурге - <br>анализ рынка недвижимости    | Content Cell  | Content Cell  |
+| Content Cell     | Content Cell  | Content Cell  |
