@@ -3,5 +3,5 @@
 
 | Название проекта | Сфера         | Навыки        | Задачи        | Описание      |
 | ---------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell     | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Продаже кавртир в Санкт- Петербурге - анализ рынка недвижимости    | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell     | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
