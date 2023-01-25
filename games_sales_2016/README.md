@@ -3,5 +3,4 @@
 Представим, что сейчас декабрь 2016 г., планируется рекламная кампания на 2017-й. 
 
 
-Ссылка на тетрадь с интерактивными графиками в plotly
-https://nbviewer.org/github/danietta-k/study_projects/blob/main/games_sales_2016/games_sales.ipynb
+[Ссылка на тетрадь с интерактивными графиками в plotly](https://nbviewer.org/github/danietta-k/study_projects/blob/main/games_sales_2016/games_sales.ipynb)
