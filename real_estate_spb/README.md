@@ -5,6 +5,9 @@
 
 [Ссылка на тетрадь с графиками plotly](https://nbviewer.org/github/danietta-k/study_projects/blob/main/real_estate_spb/real_estate_saint_petersburg.ipynb)
 
+## Статус проекта
+Завершен
+
 ## Данные
 
 В наличии были следующие данные об объектах недвижимости:
