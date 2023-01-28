@@ -5,7 +5,10 @@
 - выгрузка их покупок за этот период,
 - рекламные расходы.
 
-Ссылка на тетрадь с графиками plotly: https://nbviewer.org/github/danietta-k/study_projects/blob/main/metrics_analysis/metrics_analysis.ipynb
+[Ссылка на тетрадь с графиками plotly](https://nbviewer.org/github/danietta-k/study_projects/blob/main/metrics_analysis/metrics_analysis.ipynb)
+
+## Статус проекта
+Завершен
 
 ## Данные
 В наличии были следующие данные о посещениях сайта:
