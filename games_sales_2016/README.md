@@ -4,6 +4,8 @@
 
 [Ссылка на тетрадь с интерактивными графиками в plotly](https://nbviewer.org/github/danietta-k/study_projects/blob/main/games_sales_2016/games_sales.ipynb)
 
+## Статус проекта
+Завершен
 
 ## Данные
 В наличии были следующие данные об играх:
