@@ -6,6 +6,9 @@
 
 [Ссылка на тетрадь с графиками plotly](https://nbviewer.org/github/danietta-k/study_projects/blob/main/foodstuff_analysis/foodstuff_analysis.ipynb)
 
+## Статус проекта
+Завершен
+
 ## Данные
 
 В наличии были следующие данные о событиях:
